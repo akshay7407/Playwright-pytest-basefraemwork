@@ -1,0 +1,41 @@
+[
+    {
+        "TestCase ID": "TC1 ",
+        "Use Case": "Test Case One",
+        "User Action ": "Test User Action One",
+        "Model Master ": {
+            "Model ID": "1",
+            "ModelName": "Test Name One"
+        },
+        "Model Event": {
+            "EV1": "Test 1 One",
+            "EV2": "Test 2 One",
+            "EV3": "Test 3 One",
+            "EV4": "Test 4 One"
+        },
+        "Model State": {
+            "StateId": "1",
+            "StateName": "Test State name One"
+        }
+    },
+    {
+        "TestCase ID": "TC1 ",
+        "Use Case": "Test Case Two",
+        "User Action ": "Test User Action Two",
+        "Model Master ": {
+            "Model ID": "1",
+            "ModelName": "Akshay"
+        },
+        "Model Event": {
+            "EV1": "Test 1 Two",
+            "EV2": "Test 2 Two",
+            "EV3": "Test 3 Two",
+            "EV4": "Test 4 Two"
+        },
+        "Model State": {
+            "StateId": "1",
+            "StateName": "Test State name Two"
+        },
+        "Model Candidate": "Test Candidate Two"
+    }
+]
