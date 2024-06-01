@@ -28,7 +28,6 @@ class TestLogin(TestBase):
         self.myInfoPage_obj.click_on_requirement_role()
         # wait for 10 seconds 
         self.page.wait_for_timeout(10000)
-        assert False
 
     @pytest.mark.smoke 
     def test_db_val(self):

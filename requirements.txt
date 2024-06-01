@@ -38,3 +38,4 @@ wrapt
 pytest-html
 pytest-playwright
 pandas
+pyodbc
